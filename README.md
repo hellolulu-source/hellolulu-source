@@ -24,4 +24,21 @@ Here are some ideas to get you started:
 - Specializing in **AI-driven development**.
 - Ready for impactful projects! 🚀
 
-![Iron Code](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FubjhrYWNvb3QycDY4cXg1b25uZ2swcG9wNWo4aDg4MHBvZHl1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3975CZuyQgoNVuOA/giphy.gif)
+##### Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php)](https://skillicons.dev)
+
+<!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> -->
+<!--<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
+
+#### AI Tools
+
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+
+#### Conect With Me
+
+![instagram.com/hello_lulu___](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
