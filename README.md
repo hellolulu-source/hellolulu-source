@@ -1,11 +1,4 @@
 ![Lulu Nafisiah](img/profile%20github.png)
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hellolulu-source/count.svg?"  />
-</div>
-
-###
 
 <h2 align="center">What's Up 👋 I'm Lulu!</h2>
 <h6 align="center">I'm Passionite 💻 Programmer & AI Expert Collab Mode</h6>
@@ -60,3 +53,10 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hellolulu-source/hellolulu-source/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hellolulu-source/hellolulu-source/output/pacman-contribution-graph.svg">
 </picture>
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hellolulu-source/count.svg?"  />
+</div>
+
+###
