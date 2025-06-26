@@ -46,10 +46,6 @@ Here are some ideas to get you started:
  
 <h5 align="left">Game🎮</h5>
 
-###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hellolulu-source/hellolulu-source/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hellolulu-source/hellolulu-source/output/pacman-contribution-graph.svg">
