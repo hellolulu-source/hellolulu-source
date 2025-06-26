@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">🛠 Language and tools</h4>
+<h4 align="center">🛠 Language and Tools</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
  
-<h5 align="left">Look at This</h5>
+<h5 align="left">Game🎮</h5>
 
 ###
 
