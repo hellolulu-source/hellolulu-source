@@ -1,6 +1,13 @@
 ![Lulu Nafisiah](img/profile%20github.png)
+<br clear="both">
 
-<h2 align="center">What's Up 👋 I'm Lulu"!</h2>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hellolulu-source/count.svg?"  />
+</div>
+
+###
+
+<h2 align="center">What's Up 👋 I'm Lulu!</h2>
 <h6 align="center">I'm Passionite 💻 Programmer & AI Expert Collab Mode</h6>
 
 <!--
@@ -24,11 +31,11 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h4 align="left">🛠 Language and tools</h4>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -44,7 +51,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
  
-<h5 align="left">Play Game With Me 😎</h5>
+<h5 align="left">Look at This</h5>
 
 ###
 
@@ -53,11 +60,3 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hellolulu-source/hellolulu-source/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hellolulu-source/hellolulu-source/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=hellolulu-source&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="50" alt="trophy graph"  />
-</div>
-
-###
