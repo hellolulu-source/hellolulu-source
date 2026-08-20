@@ -42,9 +42,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hellolulu-source/count.svg?"  />
-</div>
+
 
 <img src="https://raw.githubusercontent.com/hellolulu-source/hellolulu-source/output/snake.svg" alt="Snake animation" />
 
