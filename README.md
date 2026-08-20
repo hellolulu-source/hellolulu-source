@@ -40,8 +40,6 @@ Here are some ideas to get you started:
  
 <h5 align="left">Game🎮</h5>
 
-<img src="https://raw.githubusercontent.com/hellolulu-source/hellolulu-source/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
