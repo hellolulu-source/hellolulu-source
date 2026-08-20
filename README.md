@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 </div>
 
 <img src="https://raw.githubusercontent.com/hellolulu-source/hellolulu-source/output/snake.svg" alt="Snake animation" />
-###
+
